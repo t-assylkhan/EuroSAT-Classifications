@@ -1,0 +1,3 @@
+# Large model files
+results/*.pth
+results/*.pt
